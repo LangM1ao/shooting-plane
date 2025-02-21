@@ -1,0 +1,15 @@
+# 窗口尺寸
+WIDTH = 600
+HEIGHT = 800
+
+# 颜色
+BLACK = (0, 0, 0)
+WHITE = (255, 255, 255)
+
+# 游戏帧率
+FPS = 60
+
+# 速度设置
+PLAYER_SPEED = 5
+BULLET_SPEED = 10
+ENEMY_SPEED = 3
